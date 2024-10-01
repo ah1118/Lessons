@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Translate TTS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        input {
+            padding: 10px;
+            width: 300px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px;
+            font-size: 16px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Google Translate TTS</h1>
+    <p>Enter a word or sentence and click the button to hear it:</p>
+    <input type="text" id="textInput" placeholder="Type something..." />
+    <button onclick="playTTS()">Play</button>
+
+    <audio id="audioPlayer" controls style="margin-top: 20px; display: none;"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
