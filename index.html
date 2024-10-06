@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google Translate TTS</title>
+    <title>Hello Display</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,21 +15,24 @@
             font-size: 16px;
             margin-left: 10px;
         }
+        #helloText {
+            margin-top: 20px;
+            font-size: 24px;
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <h1>Google Translate TTS</h1>
-    <p>Click the button to hear "Hello":</p>
-    <button onclick="playHello()">Play</button>
+    <h1>Display Hello</h1>
+    <p>Click the button to see "Hello":</p>
+    <button onclick="showHello()">Show Hello</button>
 
-    <audio id="audioPlayer" controls style="margin-top: 20px; display: none;"></audio>
+    <div id="helloText">Hello</div>
 
     <script>
-        function playHello() {
-            const audioPlayer = document.getElementById('audioPlayer');
-            audioPlayer.src = 'https://www.soundjay.com/button/sounds/button-3.mp3'; // Replace with a proper TTS audio URL if needed
-            audioPlayer.play();
-            audioPlayer.style.display = 'block';
+        function showHello() {
+            const helloText = document.getElementById('helloText');
+            helloText.style.display = 'block';
         }
     </script>
 </body>
