@@ -1,0 +1,84 @@
+{
+  "Embrace Curiosity": {
+    "1-Ar": {
+      "Translated": "احتضان الفضول",
+      "Definition": "السعي المستمر لاكتساب المعرفة وفهم العالم بطريقة عميقة وشاملة.",
+      "Examples": {
+        "1": "إن احتضان الفضول يمكننا من توسيع آفاقنا واكتشاف جوانب جديدة في الحياة.",
+        "2": "احتضان الفضول يعزز مهارات التفكير النقدي والإبداعي."
+      }
+    },
+    "2-Fr": {
+      "Translated": "Embrasser la Curiosité",
+      "Definition": "La quête incessante de connaissances et la compréhension profonde et complète du monde qui nous entoure.",
+      "Examples": {
+        "1": "En embrassant la curiosité, nous pouvons élargir nos horizons et découvrir de nouveaux aspects de la vie.",
+        "2": "Embrasser la curiosité renforce les compétences de pensée critique et créative."
+      }
+    },
+    "3-De": {
+      "Translated": "Neugierde annehmen",
+      "Definition": "Das ständige Streben nach Wissen und das tiefe und umfassende Verständnis der Welt um uns herum.",
+      "Examples": {
+        "1": "Durch die Annahme von Neugierde können wir unsere Horizonte erweitern und neue Aspekte des Lebens entdecken.",
+        "2": "Neugierde annehmen stärkt das kritische Denken und die Kreativität."
+      }
+    },
+    "4-Tr": {
+      "Translated": "Merakı Kucaklamak",
+      "Definition": "Sürekli bilgi arayışı ve dünyayı derinlemesine ve kapsamlı bir şekilde anlama.",
+      "Examples": {
+        "1": "Merakı kucaklayarak, ufuklarımızı genişletebilir ve hayatın yeni yönlerini keşfedebiliriz.",
+        "2": "Merakı kucaklamak, eleştirel düşünme ve yaratıcılığı güçlendirir."
+      }
+    },
+    "5-Vi": {
+      "Translated": "Nắm bắt Tò mò",
+      "Definition": "Sự tìm kiếm không ngừng nghỉ kiến thức và hiểu biết sâu sắc, toàn diện về thế giới xung quanh.",
+      "Examples": {
+        "1": "Bằng cách nắm bắt tò mò, chúng ta có thể mở rộng tầm nhìn và khám phá các khía cạnh mới của cuộc sống.",
+        "2": "Nắm bắt tò mò tăng cường khả năng suy nghĩ phản biện và sáng tạo."
+      }
+    },
+    "6-It": {
+      "Translated": "Abbracciare la Curiosità",
+      "Definition": "La ricerca costante di conoscenza e la comprensione profonda e completa del mondo che ci circonda.",
+      "Examples": {
+        "1": "Abbracciando la curiosità, possiamo ampliare i nostri orizzonti e scoprire nuovi aspetti della vita.",
+        "2": "Abbracciare la curiosità rafforza le capacità di pensiero critico e creativo."
+      }
+    },
+    "7-Ru": {
+      "Translated": "Принять любопытство",
+      "Definition": "Постоянное стремление к знаниям и глубокое и всестороннее понимание мира вокруг нас.",
+      "Examples": {
+        "1": "Приняв любопытство, мы можем расширить свои горизонты и открыть новые аспекты жизни.",
+        "2": "Принятие любопытства укрепляет навыки критического мышления и творчества."
+      }
+    },
+    "8-Es": {
+      "Translated": "Abrazar la Curiosidad",
+      "Definition": "La búsqueda constante de conocimiento y la comprensión profunda y completa del mundo que nos rodea.",
+      "Examples": {
+        "1": "Abrazar la curiosidad nos permite ampliar nuestros horizontes y descubrir nuevos aspectos de la vida.",
+        "2": "Abrazar la curiosidad fortalece las habilidades de pensamiento crítico y creatividad."
+      }
+    },
+    "9-Zh": {
+      "Translated": "拥抱好奇心",
+      "Definition": "不断追求知识并深入全面地理解我们周围的世界。",
+      "Examples": {
+        "1": "通过拥抱好奇心，我们可以扩展视野，发现生活的新方面。",
+        "2": "拥抱好奇心增强批判性思维和创造力。"
+      }
+    },
+    "10-Fa": {
+      "Translated": "پذیرش کنجکاوی",
+      "Definition": "جستجوی مداوم برای دانش و درک عمیق و جامع از جهان پیرامون ما.",
+      "Examples": {
+        "1": "با پذیرش کنجکاوی، می‌توانیم افق‌های خود را گسترش دهیم و جنبه‌های جدیدی از زندگی را کشف کنیم.",
+        "2": "پذیرش کنجکاوی مهارت‌های تفکر انتقادی و خلاقیت را تقویت می‌کند."
+      }
+    }
+  }
+}
